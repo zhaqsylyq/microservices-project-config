@@ -1,1 +1,1 @@
-# eazybytes-config
+# for learning purposes => TO BE DELETED
